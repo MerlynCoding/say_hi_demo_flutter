@@ -22,6 +22,11 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>此應用程式需要使用麥克風來辨識語音。</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>此應用程式需要使用語音辨識來轉換語音為文字。</string>
+
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
